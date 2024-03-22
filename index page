@@ -1,8 +1,46 @@
-<!DOCTYPE html> <!-- ByLuis -->
-<html lang="en">
+<!doctype html>
+<html>
 <head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
 <body>
-Luis cortes 
+
+<!-- This is heading 1 -->
+	<h1>
+		luis cortes
+	</h1>
+<!-- paragraph -->
+	<p>
+		my name is luis cortes i am 18 years old and my favorite video game is fortnite. also my favorite sport is wresetling, i also love to run im also intersted in web developement. i know a bit of code but learning something new everyday .
+		
+	</p>
+
+<table border="2"
+<caption> My favorite animes/TV shows</caption>
+
+<tr>
+<th> TV shows</th>
+<th> Animes</th>
+
+</tr>
+    <tr>
+	<!-- png -->
+	<td><img src="https://upload.wikimedia.org/wikipedia/en/9/98/The_Flash_Intertitle.png"></td>
+	<!-- jpg-->
+       <td><img src="https://media.gettyimages.com/id/945411928/photo/stage-for-selfies-with-naruto-characters-opening-of-the.jpg?b=1&s=594x594&w=0&k=20&c=laBbKGJcMzZpBpK6TkLhUoykU458TNOn7IGzht9kUwE="></td
+        
+    </tr>
+    <tr>
+        <td>the flash takes the spot as my favorite tv show.</td>
+        <td>Naruto 100% takes the favorite anime spot</td>
+    </tr>
+</table>
+<!-- mp4 -->
+<h2> Heres a clip from one of my favorite scenes</h2>
+<iframe width="700" height="394"src="https://www.youtube.com/embed/KMJEmCqMcYE" title="Naruto Greatest moments: Itachi on the throne" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </body>
+
+
+
+<!-- the end -->
 </html>
