@@ -1,0 +1,34 @@
+.red_circle { 
+width: 100px;
+height: 100px;
+background: linear-gradient(crimson, orange);
+border-radius: 0px 25px 0px 25px;
+color:white;
+border: 10px black;
+color: white;
+margin-left: 30%;
+margin-top: 10px;
+}
+table {
+    border: 1px solid black;
+	 border: 3px solid blue;
+	 margin-top:  10px;
+	  text-align: center;
+	 
+
+}
+td {
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+	
+}
+td img {
+width: 90%; }
+
+h2 {
+	text-align:center
+	color: #333;
+	padding: 30px;
+	padding-left: 500px;
+}
