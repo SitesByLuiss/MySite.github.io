@@ -43,7 +43,9 @@ td img {
 width: 90%; }
 
 h2 {
-	text-align:center
+	position:relative;
+	text-align: center; 
+
 	color: #333;
 	padding: 30px;
 	padding-left: 500px;
@@ -59,3 +61,27 @@ color: white;
 padding-top: 25px;
 padding-bottom:25px;
 }
+
+a: { 
+color: white;
+}
+a:hover {
+	color: crimson 
+} 
+a:active { 
+color: black;
+}
+a:visited{ 
+color: green;
+}
+a:focus {
+    border: 3px solid blue;
+}
+.play_btn {
+	color: black;
+	font-size: 20px;
+}
+.play_btn:hover {
+	color: red;
+}
+
